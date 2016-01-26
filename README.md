@@ -2,7 +2,7 @@
 
 This is a simple website project for showing how to use Git and Github together.
 
-##Introdaction
+##Intro
 
 This example is to show different parts of the Git repository and varios commands using a web project.
 
@@ -19,4 +19,4 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ###Copyright
 
-copyright 2016 Git. Training
+copyright 2015 Git. 
