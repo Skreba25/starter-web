@@ -19,4 +19,4 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ###Copyright
 
-copyright 2016 Git. Training
+copyright 2016 Git. Training 29.01 2016
